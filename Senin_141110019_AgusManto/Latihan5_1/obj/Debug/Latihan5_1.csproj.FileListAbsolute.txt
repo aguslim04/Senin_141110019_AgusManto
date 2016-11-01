@@ -1,0 +1,10 @@
+D:\Mikroskil\Semester 5\Net Framework Lanjutan (Tugas)\Senin_141110019_AgusManto\Latihan5_1\bin\Debug\Latihan5_1.exe.config
+D:\Mikroskil\Semester 5\Net Framework Lanjutan (Tugas)\Senin_141110019_AgusManto\Latihan5_1\bin\Debug\Latihan5_1.exe
+D:\Mikroskil\Semester 5\Net Framework Lanjutan (Tugas)\Senin_141110019_AgusManto\Latihan5_1\bin\Debug\Latihan5_1.pdb
+D:\Mikroskil\Semester 5\Net Framework Lanjutan (Tugas)\Senin_141110019_AgusManto\Latihan5_1\obj\Debug\Latihan5_1.Form1.resources
+D:\Mikroskil\Semester 5\Net Framework Lanjutan (Tugas)\Senin_141110019_AgusManto\Latihan5_1\obj\Debug\Latihan5_1.Form2.resources
+D:\Mikroskil\Semester 5\Net Framework Lanjutan (Tugas)\Senin_141110019_AgusManto\Latihan5_1\obj\Debug\Latihan5_1.Properties.Resources.resources
+D:\Mikroskil\Semester 5\Net Framework Lanjutan (Tugas)\Senin_141110019_AgusManto\Latihan5_1\obj\Debug\Latihan5_1.csproj.GenerateResource.Cache
+D:\Mikroskil\Semester 5\Net Framework Lanjutan (Tugas)\Senin_141110019_AgusManto\Latihan5_1\obj\Debug\Latihan5_1.exe
+D:\Mikroskil\Semester 5\Net Framework Lanjutan (Tugas)\Senin_141110019_AgusManto\Latihan5_1\obj\Debug\Latihan5_1.pdb
+D:\Mikroskil\Semester 5\Net Framework Lanjutan (Tugas)\Senin_141110019_AgusManto\Latihan5_1\obj\Debug\Latihan5_1.csprojResolveAssemblyReference.cache
