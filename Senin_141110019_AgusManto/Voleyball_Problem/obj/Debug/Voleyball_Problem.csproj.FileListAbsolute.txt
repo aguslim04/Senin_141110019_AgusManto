@@ -1,0 +1,9 @@
+D:\Mikroskil\Semester 5\Net Framework Lanjutan (Tugas)\Senin_141110019_AgusManto\Voleyball_Problem\bin\Debug\Voleyball_Problem.exe.config
+D:\Mikroskil\Semester 5\Net Framework Lanjutan (Tugas)\Senin_141110019_AgusManto\Voleyball_Problem\obj\Debug\Voleyball_Problem.csprojResolveAssemblyReference.cache
+D:\Mikroskil\Semester 5\Net Framework Lanjutan (Tugas)\Senin_141110019_AgusManto\Voleyball_Problem\obj\Debug\Voleyball_Problem.Form1.resources
+D:\Mikroskil\Semester 5\Net Framework Lanjutan (Tugas)\Senin_141110019_AgusManto\Voleyball_Problem\obj\Debug\Voleyball_Problem.Properties.Resources.resources
+D:\Mikroskil\Semester 5\Net Framework Lanjutan (Tugas)\Senin_141110019_AgusManto\Voleyball_Problem\obj\Debug\Voleyball_Problem.csproj.GenerateResource.Cache
+D:\Mikroskil\Semester 5\Net Framework Lanjutan (Tugas)\Senin_141110019_AgusManto\Voleyball_Problem\bin\Debug\Voleyball_Problem.exe
+D:\Mikroskil\Semester 5\Net Framework Lanjutan (Tugas)\Senin_141110019_AgusManto\Voleyball_Problem\bin\Debug\Voleyball_Problem.pdb
+D:\Mikroskil\Semester 5\Net Framework Lanjutan (Tugas)\Senin_141110019_AgusManto\Voleyball_Problem\obj\Debug\Voleyball_Problem.exe
+D:\Mikroskil\Semester 5\Net Framework Lanjutan (Tugas)\Senin_141110019_AgusManto\Voleyball_Problem\obj\Debug\Voleyball_Problem.pdb
